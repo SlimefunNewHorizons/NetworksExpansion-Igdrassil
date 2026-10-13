@@ -13,6 +13,9 @@ java {
 }
 
 repositories {
+    maven("https://maven.drakescraft.cl/") {
+        content { includeGroup("com.github.drakescraft_labs") }
+    }
     mavenCentral()
     maven("https://repo.papermc.io/repository/maven-public/")
     maven("https://jitpack.io")
@@ -64,7 +67,7 @@ dependencies {
     compileOnly("net.guizhanss:GuizhanLibPlugin:1.7.6")
     compileOnly("com.github.balugaq:FluffyMachines:43d7444e4c")
     compileOnly("com.github.TimetownDev:GuguSlimefunLib:45627c6f8e")
-    compileOnly("com.github.balugaq:JustEnoughGuide:7f21e113a2")
+    compileOnly("com.github.drakescraft_labs:JustEnoughGuide-Igdrassil:2.1.45")
     // System-scoped local JARs
     compileOnly(fileTree(mapOf("dir" to "lib", "include" to listOf("*.jar"))))
 }
