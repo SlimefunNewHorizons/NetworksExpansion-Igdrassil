@@ -24,7 +24,7 @@ Sistema integral de **almacenamiento digital, transporte cuántico de objetos, e
 |---|---|---|
 | **Base Core** | `Sefiraat` (*Networks*) | Rejillas digitales, celdas de almacenamiento cuántico, puentes y buses de importación/exportación. |
 | **Expansión** | `balugaq` & `ytdd9527` | Maquinaria pesada, nodos inalámbricos de largo alcance y sintetizadores de red. |
-| **Parches Drake** | `DrakesCraft-Labs` | Corrección de fugas de memoria en `SELECTED_DIRECTION_MAP`, optimización asíncrona y compatibilidad Paper 1.21.11 bajo `cl.jackstar`. |
+| **Parches Drake** | `SlimefunNewHorizons` | Corrección de fugas de memoria en `SELECTED_DIRECTION_MAP`, optimización asíncrona y compatibilidad Paper 1.21.11 bajo `cl.jackstar`. |
 
 ---
 

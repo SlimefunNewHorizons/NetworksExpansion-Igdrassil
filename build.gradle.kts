@@ -97,7 +97,7 @@ tasks {
          *
          * Este addon compila contra la API de Gugu, que usa io.github.thebusybiscuit y
          * me.mrCookieSlime. Nuestro core se publica con esos paquetes movidos a
-         * com.github.drakescraft_labs para no romper los ~40 addons de DrakesCraft-Labs, asi que
+         * com.github.drakescraft_labs para no romper los ~40 addons de SlimefunNewHorizons, asi que
          * aqui hay que mover las referencias al mismo sitio o este addon no encontraria nada.
          *
          * Si algun dia se deja de relocalizar el core, hay que quitar estas tres lineas a la vez.

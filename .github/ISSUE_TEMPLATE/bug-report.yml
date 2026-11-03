@@ -9,7 +9,7 @@ body:
       options:
         - label: Busqué incidencias existentes y no encontré este problema.
           required: true
-        - label: Estoy usando un JAR oficial de DrakesCraft-Labs sin modificar.
+        - label: Estoy usando un JAR oficial de SlimefunNewHorizons sin modificar.
           required: true
   - type: textarea
     id: description
