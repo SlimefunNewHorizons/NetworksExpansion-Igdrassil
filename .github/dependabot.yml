@@ -1,11 +1,5 @@
-# To get started with Dependabot version updates, you'll need to specify which
-# package ecosystems to update and where the package manifests are located.
-# Please see the documentation for all configuration options:
-# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
-
+# SlimefunNewHorizons: Dependabot Configuration
+# Version updates are disabled to prevent uncoordinated library bumps across 200+ addons.
+# Security alerts and vulnerability monitoring remain active via GitHub Security Advisories.
 version: 2
-updates:
-  - package-ecosystem: "gradle" # See documentation for possible values
-    directory: "/" # Location of package manifests
-    schedule:
-      interval: "weekly"
+updates: []
