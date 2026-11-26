@@ -4,6 +4,13 @@
 > **Créditos y licencia.** Port y mantenimiento por [JackStar6677-1](https://github.com/JackStar6677-1) y [DrakesCraft Labs](https://github.com/SlimefunNewHorizons). Autores originales: [balugaq](https://github.com/balugaq) (upstream [balugaq/NetworksExpansion](https://github.com/balugaq/NetworksExpansion)), [balugaq](https://github.com/balugaq), [Sefiraat](https://github.com/Sefiraat), [ybw0014](https://github.com/ybw0014), [ytdd9526](https://github.com/ytdd9526), [JustAHuman-xD](https://github.com/JustAHuman-xD), [renovate-bot](https://github.com/renovate-bot), [J3fftw1](https://github.com/J3fftw1), [JWJUN233233](https://github.com/JWJUN233233), [shixinzia](https://github.com/shixinzia), [scorninpc](https://github.com/scorninpc), [jack-lund](https://github.com/jack-lund), [LobbyTech-MC](https://github.com/LobbyTech-MC), - Sefiraat (plugin.yml). Licencia original: **GNU General Public License v3.0**. Detalle en [docs/UPSTREAM_ATTRIBUTION.md](docs/UPSTREAM_ATTRIBUTION.md).
 <!-- credits:end -->
 
+<!-- legacy-notice:start -->
+> [!WARNING]
+> **Legacy / Superseded Repository (Not Archived)**
+> **EN:** Historical Igdrassil fork of NetworksExpansion. Active development has moved to [SlimefunNewHorizons/NetworksV6-drake](https://github.com/SlimefunNewHorizons/NetworksV6-drake) and [SlimefunNewHorizons/Drakes-Suites](https://github.com/SlimefunNewHorizons/Drakes-Suites) (`drakes-tech`). This repository is intentionally kept unarchived for historical reference, upstream attribution, and git history.
+>
+> **ES:** Fork histórico de NetworksExpansion de la etapa Igdrassil. El desarrollo activo continúa en [SlimefunNewHorizons/NetworksV6-drake](https://github.com/SlimefunNewHorizons/NetworksV6-drake) y [SlimefunNewHorizons/Drakes-Suites](https://github.com/SlimefunNewHorizons/Drakes-Suites) (`drakes-tech`). Este repositorio se mantiene intencionalmente sin archivar como referencia histórica, atribución upstream e historial de git.
+<!-- legacy-notice:end -->
 > ### 🏰 ¡Únete a la Comunidad Oficial de DrakesCraft!
 > 
 > * 🎮 **IP del Servidor**: `play.drakescraft.net` *(Java 1.21.11 & Bedrock)*
